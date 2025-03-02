@@ -1,0 +1,1 @@
+Tu są napisane aktualizacje w kodzie
