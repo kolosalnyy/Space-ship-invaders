@@ -1,4 +1,4 @@
-Tu są napisane aktualizacje w kodzie
+#Tu są napisane aktualizacje w kodzie
 
 kolosalny:
 
