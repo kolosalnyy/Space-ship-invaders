@@ -6,6 +6,6 @@ kolosalny:
 
 GemanoutGames:
 
--Usprawniono kod o czytelniejszy wygląd i optymalizacja pisania
+- Usprawniono kod o czytelniejszy wygląd i optymalizacja pisania
 
 #Tyle
